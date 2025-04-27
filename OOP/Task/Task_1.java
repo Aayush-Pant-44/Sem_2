@@ -1,6 +1,6 @@
 // 1. 
 import java.util.Scanner;
-public class Q1_Greeting {
+public class Task_1 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter your full name: ");
@@ -11,7 +11,7 @@ public class Q1_Greeting {
 
 // 2. 
 import java.util.Scanner;
-public class Q2_TwoNumbers {
+public class Task_1 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter first number: ");
@@ -31,7 +31,7 @@ public class Q2_TwoNumbers {
 
 // 3. 
 import java.util.Scanner;
-public class Q3_PositiveNegativeZero {
+public class Task_1 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter a number: ");
@@ -48,7 +48,7 @@ public class Q3_PositiveNegativeZero {
 
 // 4. 
 import java.util.Scanner;
-public class Q4_DivisibleBy5And11 {
+public class Task_1 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter a number: ");
@@ -63,7 +63,7 @@ public class Q4_DivisibleBy5And11 {
 
 // 5. 
 import java.util.Scanner;
-public class Q5_LargestOfThree {
+public class Task_1 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter first number: ");
@@ -85,7 +85,7 @@ public class Q5_LargestOfThree {
 
 // 6. 
 import java.util.Scanner;
-public class Q6_EvenOdd {
+public class Task_1 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter a number: ");
@@ -101,7 +101,7 @@ public class Q6_EvenOdd {
 
 // 7. 
 import java.util.Scanner;
-public class Q7_VoteEligibility {
+public class Task_1 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter your age: ");
@@ -117,7 +117,7 @@ public class Q7_VoteEligibility {
 
 // 8. 
 import java.util.Scanner;
-public class Q8_VowelConsonant {
+public class Task_1 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter a character: ");
@@ -135,7 +135,7 @@ public class Q8_VowelConsonant {
 
 // 9.  
 import java.util.Scanner;
-public class Q9_GradeCalculator {
+public class Task_1 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int total = 0;
@@ -173,7 +173,7 @@ public class Q9_GradeCalculator {
 
 // 10. 
 import java.util.Scanner;
-public class Q10_LeapYear {
+public class Task_1 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter a year: ");
@@ -189,7 +189,7 @@ public class Q10_LeapYear {
 
 // 11. 
 import java.util.Scanner;
-public class Q11_PrimeNumber {
+public class Task_1 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter a number: ");
@@ -218,7 +218,7 @@ public class Q11_PrimeNumber {
 
 // 12. 
 import java.util.Scanner;
-public class Q12_MultiplicationTable {
+public class Task_1 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter a number: ");
@@ -233,7 +233,7 @@ public class Q12_MultiplicationTable {
 
 // 13. 
 import java.util.Scanner;
-public class Q13_SumOfNaturalNumbers {
+public class Task_1 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter n: ");
@@ -250,7 +250,7 @@ public class Q13_SumOfNaturalNumbers {
 
 
 // 14. 
-public class Q14_EvenNumbers {
+public class Task_1 {
   public static void main(String[] args) {
       for (int i = 1; i <= 100; i++) {
           if (i % 2 == 0) {
@@ -264,7 +264,7 @@ public class Q14_EvenNumbers {
 
 // 15. 
 import java.util.Scanner;
-public class Q15_Factorial {
+public class Task_1 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter a number: ");
@@ -283,7 +283,7 @@ public class Q15_Factorial {
 
 // 16. 
 import java.util.Scanner;
-public class Q16_SimpleCalculator {
+public class Task_1 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter first number: ");
@@ -320,7 +320,7 @@ public class Q16_SimpleCalculator {
 
 // 17. 
 import java.util.Scanner;
-public class Q17_DayOfWeek {
+public class Task_1 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter a number (1-7): ");
@@ -359,7 +359,7 @@ public class Q17_DayOfWeek {
 
 // 18. 
 import java.util.Scanner;
-public class Q18_MonthDays {
+public class Task_1 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter month number (1-12): ");
@@ -385,7 +385,7 @@ public class Q18_MonthDays {
 
 // 19. 
 import java.util.Scanner;
-public class Q19_SwitchVowel {
+public class Task_1 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter a character: ");
@@ -412,7 +412,7 @@ public class Q19_SwitchVowel {
 
 // 20. 
 import java.util.Scanner;
-public class PerfectSquareCheck {
+public class Task_1 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter a number: ");
@@ -437,7 +437,7 @@ public class PerfectSquareCheck {
 
 // 21. 
 import java.util.Scanner;
-public class SumOfDigits {
+public class Task_1 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter a number: ");
@@ -457,7 +457,7 @@ public class SumOfDigits {
 
 // 22. 
 import java.util.Scanner;
-public class ReverseNumber {
+public class Task_1 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter a number: ");
@@ -477,7 +477,7 @@ public class ReverseNumber {
 
 // 23. 
 import java.util.Scanner;
-public class PalindromeCheck {
+public class Task_1 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter a number: ");
@@ -502,7 +502,7 @@ public class PalindromeCheck {
 
 // 24. 
 import java.util.Scanner;
-public class FibonacciSeries {
+public class Task_1 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter number of terms: ");
@@ -523,7 +523,7 @@ public class FibonacciSeries {
 
 // 25. 
 import java.util.Scanner;
-public class CountDigits {
+public class Task_1 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter a number: ");
