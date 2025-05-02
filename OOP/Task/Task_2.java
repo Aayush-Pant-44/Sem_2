@@ -1,5 +1,6 @@
-package OOP.Task;
-
+// package OOP.Task;
+// import java.util.Scanner;
+// //1. Write a method to print all odd numbers from 1 to a given number n
 // public class Task_2 {
   
 //   static void odd(int n){
@@ -22,7 +23,7 @@ package OOP.Task;
 //   }
 // }
 
-//2. Create a method to convert a given number of days into years, months, and days
+// // 2. Create a method to convert a given number of days into years, months, and days
 
 // public class Task_2{
   
@@ -66,7 +67,7 @@ package OOP.Task;
 //   }
 // }
 
-//3. Write a method to determine whether a number is a Harshad number or not
+// // 3. Write a method to determine whether a number is a Harshad number or not
 
 // public class Task_2{
   
@@ -100,7 +101,7 @@ package OOP.Task;
 // }
 
 
-// 4. Write a method to count the number of words in a given string
+// // 4. Write a method to count the number of words in a given string
 
 // public class Task_2 {
 
@@ -133,7 +134,7 @@ package OOP.Task;
 
 
 
-// 5. Write a method to calculate the compound interest given principal, rate, and time
+// // 5. Write a method to calculate the compound interest given principal, rate, and time
 
 // public class Task_2 {
 
@@ -159,7 +160,7 @@ package OOP.Task;
 
 
 
-// 6. Create a method to check whether a given number is a palindrome prime
+// // 6. Create a method to check whether a given number is a palindrome prime
 
 // public class Task_2 {
 
@@ -198,7 +199,7 @@ package OOP.Task;
 
 
 
-// 7. Write a method to swap two numbers using a temporary variable
+// // 7. Write a method to swap two numbers using a temporary variable
 
 // public class Task_2 {
 
@@ -222,7 +223,7 @@ package OOP.Task;
 
 
 
-// 8. Write a method to swap two numbers without using a temporary variable
+// // 8. Write a method to swap two numbers without using a temporary variable
 
 // public class Task_2 {
 
@@ -248,7 +249,7 @@ package OOP.Task;
 
 
 
-// 9. Create a method to find the sum of the first n natural numbers
+// // 9. Create a method to find the sum of the first n natural numbers
 
 // public class Task_2 {
 
@@ -270,7 +271,7 @@ package OOP.Task;
 
 
 
-// 10. Write a method to print all factors of a number
+// // 10. Write a method to print all factors of a number
 
 // public class Task_2 {
 
@@ -293,7 +294,7 @@ package OOP.Task;
 
 
 
-// 11. Create a method to calculate the cube of a given number
+// // 11. Create a method to calculate the cube of a given number
 
 // public class Task_2 {
 
@@ -313,7 +314,7 @@ package OOP.Task;
 
 
 
-// 12. Write a method to determine if a number is a Duck number
+// // 12. Write a method to determine if a number is a Duck number
 
 // public class Task_2 {
 
@@ -340,7 +341,7 @@ package OOP.Task;
 
 
 
-// 13. Create a method to print the multiplication tables from 1 to 10
+// // 13. Create a method to print the multiplication tables from 1 to 10
 
 // public class Task_2 {
 
@@ -363,7 +364,7 @@ package OOP.Task;
 
 
 
-// 14. Write a method that returns the sum of squares of digits of a number
+// // 14. Write a method that returns the sum of squares of digits of a number
 
 // public class Task_2 {
 
@@ -389,7 +390,7 @@ package OOP.Task;
 
 
 
-// 15. Create a method to count uppercase and lowercase characters in a string
+// // 15. Create a method to count uppercase and lowercase characters in a string
 
 // public class Task_2 {
 
@@ -419,7 +420,7 @@ package OOP.Task;
 
 
 
-// 16. Write a method to check if a number is a Kaprekar number
+// // 16. Write a method to check if a number is a Kaprekar number
 
 // public class Task_2 {
 
@@ -455,7 +456,7 @@ package OOP.Task;
 
 
 
-// 17. Write a method to reverse an integer without converting it to a string
+// // 17. Write a method to reverse an integer without converting it to a string
 
 // public class Task_2 {
 
@@ -480,7 +481,7 @@ package OOP.Task;
 
 
 
-// 19. Write a method to generate the first n terms of the Fibonacci series
+// // 19. Write a method to generate the first n terms of the Fibonacci series
 
 // public class Task_2 {
 
@@ -508,7 +509,7 @@ package OOP.Task;
 
 
 
-// 20. Create a method that accepts a character and returns its ASCII value
+// // 20. Create a method that accepts a character and returns its ASCII value
 
 // public class Task_2 {
 
