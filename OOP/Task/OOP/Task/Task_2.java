@@ -1,5 +1,5 @@
-// package OOP.Task;
-// import java.util.Scanner;
+package OOP.Task;
+import java.util.Scanner;
 // //1. Write a method to print all odd numbers from 1 to a given number n
 // public class Task_2 {
   
@@ -511,17 +511,17 @@
 
 // // 20. Create a method that accepts a character and returns its ASCII value
 
-// public class Task_2 {
+public class Task_2 {
 
-//   static void asciiValue(char ch) {
-//     int ascii = (int) ch;
-//     System.out.println("The ASCII value of '" + ch + "' is: " + ascii);
-//   }
+  static void asciiValue(char ch) {
+    int ascii = (int) ch;
+    System.out.println("The ASCII value of '" + ch + "' is: " + ascii);
+  }
 
-//   public static void main(String[] args) {
-//     Scanner sc = new Scanner(System.in);
-//     System.out.print("Enter a character: ");
-//     char ch = sc.next().charAt(0);
-//     asciiValue(ch);
-//   }
-// }
+  public static void main(String[] args) {
+    Scanner sc = new Scanner(System.in);
+    System.out.print("Enter a character: ");
+    char ch = sc.next().charAt(0);
+    asciiValue(ch);
+  }
+}
